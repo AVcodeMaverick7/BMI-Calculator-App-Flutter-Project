@@ -1,4 +1,4 @@
-# Contact Card
+# BMI Calculator
 
 ## Goal
 
@@ -13,14 +13,14 @@ This is a simple BMI Calculator application, it has features like Kilograms -> P
 
 ### Screen 1
 
-![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+![Screen 1](https://github.com/AVcodeMaverick7/BMI-Calculator-App-Flutter-Project/blob/main/new_birme/screen1.png)
 
 ### Screen 2
 
-![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+![Screen 1](https://github.com/AVcodeMaverick7/BMI-Calculator-App-Flutter-Project/blob/main/new_birme/screen2.png)
 
 ### Screen 3 
 
-![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+![Screen 1](https://github.com/AVcodeMaverick7/BMI-Calculator-App-Flutter-Project/blob/main/new_birme/screen3.png)
 
 
