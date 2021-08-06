@@ -1,16 +1,26 @@
-# proceedit_bmi_calculator
+# Contact Card
 
-A new Flutter application.
+## Goal
 
-## Getting Started
+To develop a BMI Calculator Flutter application for Enterprise use. This application is one of the individual component that goes into Remote HealthCare Master application.
 
-This project is a starting point for a Flutter application.
+## Intro
 
-A few resources to get you started if this is your first Flutter project:
+This is a simple BMI Calculator application, it has features like Kilograms -> Pounds conversion with a intuitive toggle switch, A friendly interpretation of your BMI result using Emojis, and easy to use sliders to adjust your Height and Weight values.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## BMI Calculator
+
+### Screen 1
+
+![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+
+### Screen 2
+
+![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+
+### Screen 3 
+
+![Screen 1](https://github.com/VikranthAle/Flutter-Portfolio/blob/main/ContactCard-Flutter-App/MyCard.png)
+
+
